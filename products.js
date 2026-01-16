@@ -14,7 +14,7 @@ const PRODUCTS = [
     name: "Barrier Balancing Moisturizer",
     description:
       "Nourishing prickly pear cactus and calming bisabolol pair with humectants to enhance moisture and support the skin's texture.",
-    image: "Images/Barrier balancing.png",
+    image: "Images/barrier-balancing-moisturizer.png",
     skinType: ["Dry", "Sensitive"],
     concerns: ["Dehydration"],
     productType: ["Moisturizer"],
@@ -25,7 +25,7 @@ const PRODUCTS = [
     name: "Blemish Spot Treatment",
     description:
       "Our Blemish Spot Treatment is perfect to aid in alleviating active breakouts and treating cystic acne.",
-    image: "Images/Blemishspot.5oz.PNG",
+    image: "images/blemish-spot-treatment.png",
     skinType: ["Acne-Prone", "Oily"],
     concerns: ["Acne"],
     productType: ["Other"],
@@ -36,7 +36,7 @@ const PRODUCTS = [
     name: "Charcoal Clay Cleanser",
     description:
       "This cleanser is infused with charcoal and kaolin clay to absorb excess oil and help prevent clogged pores.\n\nBest for normal to oily skin types",
-    image: "Images/charcoalclaycleanser6.4oz.PNG",
+    image: "images/charcoal-clay-cleanser.png",
     skinType: ["Acne-Prone", "Oily"],
     concerns: ["Acne"],
     productType: ["Cleanser"],
